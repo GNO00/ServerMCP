@@ -1,0 +1,10 @@
+spring:
+  ai:
+    mcp:
+      server:
+        protocol: STREAMABLE  #HTTP with stateful bidirectional streaming.
+
+default:
+  path:
+    csv:
+      directory: "../"
