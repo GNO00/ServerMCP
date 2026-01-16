@@ -22,7 +22,9 @@ ServerMCP/
 ## 🛠️ Technologies Used
 - Java 25
 - Maven 3
-- JUnit (if tests are included)
+- Spring Boot 3.5.8
+- 
+- JUnit 
 
 ## 📦 Installation
 git clone https://github.com/GNO00/ServerMCP.git
