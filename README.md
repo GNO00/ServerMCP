@@ -23,7 +23,6 @@ ServerMCP/
 - Java 25
 - Maven 3
 - Spring Boot 3.5.8
-- 
 - JUnit 
 
 ## 📦 Installation
