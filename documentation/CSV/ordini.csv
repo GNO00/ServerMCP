@@ -1,0 +1,21 @@
+id_ordine,id_cliente,data,importo,stato
+1,101,2024-01-10,59.90,spedito
+2,102,2024-01-11,129.00,in elaborazione
+3,103,2024-01-12,19.50,consegnato
+4,104,2024-01-13,699.00,spedito
+5,105,2024-01-14,34.90,consegnato
+6,106,2024-01-15,89.00,annullato
+7,107,2024-01-16,12.99,consegnato
+8,108,2024-01-17,79.90,spedito
+9,109,2024-01-18,149.00,in elaborazione
+10,110,2024-01-19,49.90,consegnato
+11,111,2024-01-20,22.00,spedito
+12,112,2024-01-21,129.90,consegnato
+13,113,2024-01-22,15.00,consegnato
+14,114,2024-01-23,199.00,spedito
+15,115,2024-01-24,499.00,in elaborazione
+16,116,2024-01-25,79.00,consegnato
+17,117,2024-01-26,18.00,consegnato
+18,118,2024-01-27,59.00,spedito
+19,119,2024-01-28,69.00,consegnato
+20,120,2024-01-29,39.99,consegnato

@@ -1,0 +1,21 @@
+id,nome,categoria,prezzo,disponibile
+1,Mouse USB,Elettronica,12.99,true
+2,Tastiera Meccanica,Elettronica,79.90,true
+3,Sedia da Ufficio,Arredamento,129.00,false
+4,Lampada LED,Illuminazione,19.50,true
+5,Borraccia Acciaio,Sport,15.00,true
+6,Zaino Trekking,Sport,59.90,false
+7,Cuffie Bluetooth,Elettronica,39.99,true
+8,Notebook 15,Informatica,699.00,true
+9,Monitor 24,Informatica,149.00,true
+10,Hard Disk 1TB,Informatica,49.90,true
+11,Powerbank 10000mAh,Elettronica,22.00,true
+12,Stampante Laser,Informatica,129.90,false
+13,Set Pentole,Cucina,89.00,true
+14,Frullatore,Cucina,34.90,true
+15,Divano 3 posti,Arredamento,499.00,false
+16,Tavolo Legno,Arredamento,199.00,true
+17,Scarpe Running,Sport,79.00,true
+18,Pallone Calcio,Sport,18.00,true
+19,Telecamera WiFi,Elettronica,59.00,true
+20,Router Dual Band,Informatica,69.00,true

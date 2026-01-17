@@ -1,0 +1,21 @@
+id;prodotto;categoria;quantita;scaffale
+1;Viti 3mm;Ferramenta;500;A1
+2;Martello;Ferramenta;35;A2
+3;Cacciavite a croce;Ferramenta;60;A2
+4;Guanti da lavoro;Sicurezza;120;B1
+5;Casco protettivo;Sicurezza;45;B1
+6;Tubo PVC 2m;Idraulica;80;C3
+7;Rubinetto inox;Idraulica;25;C1
+8;Sedia pieghevole;Arredo;40;D2
+9;Tavolo pieghevole;Arredo;15;D2
+10;Lampadina LED 10W;Illuminazione;200;E1
+11;Faretto LED;Illuminazione;75;E2
+12;Cavo elettrico 5m;Elettricità;150;F1
+13;Presa multipla 6 posti;Elettricità;90;F2
+14;Scopa industriale;Pulizia;30;G1
+15;Detergente pavimenti;Pulizia;55;G2
+16;Nastro adesivo;Ufficio;300;H1
+17;Cartellina A4;Ufficio;500;H2
+18;Toner stampante;Ufficio;20;H3
+19;Batterie AA;Elettronica;400;I1
+20;Batterie AAA;Elettronica;350;I1

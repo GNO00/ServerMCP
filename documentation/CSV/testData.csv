@@ -1,0 +1,11 @@
+id,first_name,last_name,email,age,birth_date
+1,Marco,Rossi,marco.rossi@example.com,34,1990-03-12
+2,Giulia,Bianchi,giulia.bianchi@example.com,28,1996-07-25
+3,Luca,Verdi,luca.verdi@example.com,41,1983-01-08
+4,Sara,Neri,sara.neri@example.com,22,2002-11-19
+5,Paolo,Fontana,paolo.fontana@example.com,37,1987-05-03
+6,Elena,Moretti,elena.moretti@example.com,29,1995-09-14
+7,Francesco,Gallo,francesco.gallo@example.com,45,1979-02-27
+8,Chiara,Romano,chiara.romano@example.com,31,1993-12-06
+9,Andrea,Greco,andrea.greco@example.com,26,1998-04-21
+10,Martina,De Luca,martina.deluca@example.com,33,1991-08-30
