@@ -6,6 +6,7 @@ This repository contains the server-side implementation of the MCP project, deve
 ## 🚀 Overview
 ServerMCP is a modular Java-based server designed to support the MCP project architecture.  
 It provides the core backend logic, communication handling, and extensible components required for the system.
+Technical documentation and sample CSV files under the documentation folder
 
 ## 📁 Project Structure
 ServerMCP/  
