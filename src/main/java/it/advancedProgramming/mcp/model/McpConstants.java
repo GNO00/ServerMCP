@@ -19,7 +19,8 @@ public class McpConstants {
             "an optional boolean indicate if the columns name are in thee first line default is false " +
             "and  an optional lines number (max 20)";
     public static final String FILTER_TOOL_NAME = "filterCsv";
-    public static final String FILTER_TOOL_DES = " "; //todo da completare
+    public static final String FILTER_TOOL_DES = "You can apply one or more filters to the CSV. The possible comparison " +
+            "operations are: EQUALS, NOT_EQUALS, GREATER_THAN, LESS_THAN, DATE_GREATER_THAN, and DATE_LESS_THAN.";
 
     public static final String DIR_PARM_DES = "Directory where to look for CSV files";
     public static final String PATH_PARM_DES = "Full path for CSV files";

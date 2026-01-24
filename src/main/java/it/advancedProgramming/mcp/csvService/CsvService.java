@@ -138,6 +138,8 @@ public class CsvService {
      * @return CSVReader object
      */
     private CSVReader makeCsvReader(String path, String separator) throws FileNotFoundException {
+
+        if(!path.toLowerCase().endsWith(".csv")) throw new FileNotFoundException(path);
         CSVReaderBuilder bulder = new CSVReaderBuilder(new FileReader(path));
         if (separator != null && !separator.isEmpty()) {
             bulder.withCSVParser(new CSVParserBuilder().withSeparator(separator.charAt(0)).build());
