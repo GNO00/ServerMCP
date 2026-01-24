@@ -32,9 +32,7 @@ cd ServerMCP
 mvn clean install
 
 ## ▶️ Running the Server
-mvn exec:java
-
-Or, Inside the jar folder there is the fat jar with all the dependencies:
+Inside the jar folder there is the fat jar with all the dependencies:
 
 java -jar ServerMCP-0.0.1.jar
 
