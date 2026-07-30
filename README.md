@@ -1,6 +1,5 @@
 # ServerMCP
 
-Project for the **Advanced Programming** course – Master’s Degree in Computer Science (2025–2026).  
 This repository contains the server-side implementation of the MCP project, developed in **Java** and managed with **Maven**.
 
 ## 🚀 Overview
